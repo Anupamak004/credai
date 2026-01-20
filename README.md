@@ -1,5 +1,21 @@
-Create a java file to print "Hello world"
+Java Basics Programs
 
-Wrote a java program on arryaList
+This repository contains basic Java programs for learning core concepts.
 
-Wrote a linked list program
+Programs Included
+
+1. Hello World Program
+   - A simple Java program to print "Hello World".
+
+2. ArrayList Program
+   - Demonstrates the use of ArrayList in Java.
+   - Includes operations such as add, remove, update, and traversal.
+
+3. LinkedList Program
+   - Demonstrates LinkedList operations.
+   - Includes insertion, deletion, update, stack, and queue operations.
+
+Technologies Used
+
+- Java
+- Java Collections Framework
