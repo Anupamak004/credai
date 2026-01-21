@@ -15,6 +15,8 @@ Programs Included
    - Demonstrates LinkedList operations.
    - Includes insertion, deletion, update, stack, and queue operations.
 
+4. Stack and Queue problems
+
 Technologies Used
 
 - Java
